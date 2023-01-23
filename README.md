@@ -1,2 +1,7 @@
-# data_analyst_portfolio
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+# Andrew Worthington | Data Analysis Portfolio
+
+# About
+Hey there! I am an experienced and highly effective educational leader with a strong background in data collection and analysis, research, and visualization. Proficient in data tools to find, clean, analyze, and communicate data with experience in making data-driven decisions around operations, training, and budgets, developing professional learning opportunities, and collaborating with others.
+
+# Table of Contents
+*[About](https://github.com/adotworth/data_analyst_portfolio#About)
