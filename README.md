@@ -13,3 +13,8 @@ Hey there! I am an experienced and highly effective educational leader with a st
 # Portfolio Projects
 [NFL Head Coaching Diversity]
 [Maryland EdMoney Dashboard]
+
+
+
+# Certificates
+* [Google Data Analytics Professional Certificate] (https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link)
