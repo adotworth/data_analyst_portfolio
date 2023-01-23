@@ -4,10 +4,10 @@
 Hey there! I am an experienced and highly effective educational leader with a strong background in data collection and analysis, research, and visualization. Proficient in data tools to find, clean, analyze, and communicate data with experience in making data-driven decisions around operations, training, and budgets, developing professional learning opportunities, and collaborating with others.
 
 # Table of Contents
-*[About](https://github.com/adotworth/data_analyst_portfolio#About)
+*[About](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#About)
 *[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
 *[Certificates](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#certificates)
-*[Contact]
+*[Contact](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#Contact)
 
 
 
