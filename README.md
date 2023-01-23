@@ -17,4 +17,5 @@ Hey there! I am an experienced and highly effective educational leader with a st
 
 
 # Certificates
-* [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link)(2023)
+* [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link) (2023)
+	* [Foundations: Data, Data, Everywhere](https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link) (2023)
