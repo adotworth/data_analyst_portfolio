@@ -5,10 +5,9 @@ Hey there! I am an experienced and highly effective educational leader with a st
 
 # Table of Contents
 *[About](https://github.com/adotworth/data_analyst_portfolio#About)
-
 *[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
-
 *[Certificates](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#certificates)
+*[Contact]
 
 
 
@@ -42,3 +41,8 @@ Hey there! I am an experienced and highly effective educational leader with a st
 	* [Advancecd SQL For Data Scientists](https://drive.google.com/file/d/17n8DidwFVEK0Foxlrez55Ix_mjze6XQF/view?usp=share_link)
 	* [Advanced SQL For Query Tuning and Performance Optimization](https://drive.google.com/file/d/1lWdf8Z5ClJeVRrMfXYyeUc3kLq6a8KXn/view?usp=share_link)
 	* [Advanced SQL For Data Science Time Series](https://drive.google.com/file/d/1FlkO_m15S_5ODxnLuIN45ym2MOhf9lBU/view?usp=share_link)
+
+# Contact
+LinkedIn: [@adotworth](www.linkedin.com/in/adotworth)
+Twitter: [@adotworth](www.twitter.com/adotworth)
+E-mail: adotworth@gmail.com
