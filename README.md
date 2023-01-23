@@ -5,7 +5,9 @@ Hey there! I am an experienced and highly effective educational leader with a st
 
 # Table of Contents
 *[About](https://github.com/adotworth/data_analyst_portfolio#About)
-*[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio_projects)
+
+*[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
+
 *[Certificates](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#certificates)
 
 
