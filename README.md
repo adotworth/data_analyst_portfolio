@@ -43,6 +43,9 @@ Hey there! I am an experienced and highly effective educational leader with a st
 	* [Advanced SQL For Data Science Time Series](https://drive.google.com/file/d/1FlkO_m15S_5ODxnLuIN45ym2MOhf9lBU/view?usp=share_link)
 
 # Contact
+
 LinkedIn: [@adotworth](www.linkedin.com/in/adotworth)
+
 Twitter: [@adotworth](www.twitter.com/adotworth)
+
 E-mail: adotworth@gmail.com
