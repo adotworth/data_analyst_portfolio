@@ -25,7 +25,7 @@ Hey there! I am an experienced and highly effective educational leader with a st
 	* [Analyze Data to Answer Questions](https://drive.google.com/file/d/1kp0EA1ZH7GHKTpbXy3MzXYKqcjeUXPUl/view?usp=share_link) (2023)
 	* [Share Data Through Art of Visualization](https://drive.google.com/file/d/1_wwCU05tckxOH6FC-FusGzBgdn_7Ywc6/view?usp=share_link) (2023)
 	* [Data Analysis with R Programming](https://drive.google.com/file/d/1f3T0hGr7rzYgbPH0OO2t6pOXcjEEMUOm/view?usp=share_link) (2023)
-* [LinkedIn Master Microsoft Excel Learning Path]([https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link) (2023)
+* [LinkedIn Master Microsoft Excel Learning Path](https://drive.google.com/file/d/1zD4y-FGw2GqzaeiaNUBR5TyEuu-rtrQg/view?usp=share_link) (2023)
 	* [Excel Essential Training](https://drive.google.com/file/d/1x2f655ZbfoJEqOpxaPnRXWqxIa8LyPXa/view?usp=share_link) (2023)
 	* [Excel: Advanced Formulas and Functions](https://drive.google.com/file/d/1LG6IfDYqajBD2nxprwMieSCz-_W8RAGa/view?usp=share_link) (2023)
 	* [Excel: Advanced Formatting Techniques](https://drive.google.com/file/d/1JweXvW42Kzehke8ivcvSzxQC9H6mliDy/view?usp=share_link) (2023)
