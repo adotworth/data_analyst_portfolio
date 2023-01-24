@@ -1,20 +1,20 @@
 ## Andrew Worthington | Data Analysis Portfolio
 
 # About
-Hey there! I am an experienced and highly effective educational leader with a strong background in data collection and analysis, research, and visualization. Proficient in data tools to find, clean, analyze, and communicate data with experience in making data-driven decisions around operations, training, and budgets, developing professional learning opportunities, and collaborating with others.
+Hello! I am an experienced and highly effective educational leader with a strong background in data collection and analysis, research, and visualization. Proficient in data tools to find, clean, analyze, and communicate data with experience in making data-driven decisions around operations, training, and budgets, developing professional learning opportunities, and collaborating with others.
 
 # Table of Contents
-*[About](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#About)
-*[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
-*[Certificates](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#certificates)
-*[Contact](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#Contact)
+<br>*[About](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#About)
+<br>*[Portfolio Projects](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
+<br>*[Certificates](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#certificates)
+<br>*[Contact](https://github.com/adotworth/data_analyst_portfolio/blob/main/README.md#Contact)
 
 
 
 
 # Portfolio Projects
 [NFL Head Coaching Diversity](https://public.tableau.com/views/NFLCoachingDiversity/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-Description: Synthesis, cleaning, and analysis of over 1,700 lines of NFL Head Coaching data from multiple sources with a comparison between pre- and post-Rooney Rule implementation.
+<br>Description: Synthesis, cleaning, and analysis of over 1,700 lines of NFL Head Coaching data from multiple sources with a comparison between pre- and post-Rooney Rule implementation.
 Skills: data scraping, data cleaning, data analysis, descriptive statistics, data visualization
 Technology: SQL, Excel, Tableau
 Results: Trends show an increase in BIPOC head coaches hired in the NFL post-2003 with a decrease the past few years. BIPOC head coaches share the same winning percentage as white head coaches. Although some NFL teams have hired BIPOC head coaches, several NFL teams have never had a person of color at the helm.
