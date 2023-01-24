@@ -50,7 +50,5 @@ Results: Trends show an increase in BIPOC head coaches hired in the NFL post-200
 # Contact
 
 LinkedIn: [@adotworth](www.linkedin.com/in/adotworth)
-
-Twitter: [@adotworth](www.twitter.com/adotworth)
-
-E-mail: adotworth@gmail.com
+<br>Twitter: [@adotworth](www.twitter.com/adotworth)
+<br>E-mail: adotworth@gmail.com
