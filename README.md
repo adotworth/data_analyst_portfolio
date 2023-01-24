@@ -19,7 +19,7 @@ Skills: data scraping, data cleaning, data analysis, descriptive statistics, dat
 Technology: SQL, Excel, Tableau
 Results: Trends show an increase in BIPOC head coaches hired in the NFL post-2003 with a decrease the past few years. BIPOC head coaches share the same winning percentage as white head coaches. Although some NFL teams have hired BIPOC head coaches, several NFL teams have never had a person of color at the helm.
 
-[Maryland EdMoney Dashboard](https://public.tableau.com/shared/WQXKK79NW?:display_count=n&:origin=viz_share_link)
+[Maryland EdMoney Dashboard](https://public.tableau.com/views/MDEdMoneyDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>Description: Synthesis, cleaning, and analysis of multiple data points and sources from the MD Department of Education and Cencus Bureau
 Skills: data scraping, data cleaning, data analysis, descriptive statistics, data visualization
 Technology: SQL, Excel, Tableau
