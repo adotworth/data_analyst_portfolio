@@ -15,9 +15,9 @@ Hello! I am an experienced and highly effective educational leader with a strong
 # Portfolio Projects
 [NFL Head Coaching Diversity](https://public.tableau.com/views/NFLCoachingDiversity/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>Description: Synthesis, cleaning, and analysis of over 1,700 lines of NFL Head Coaching data from multiple sources with a comparison between pre- and post-Rooney Rule implementation.
-Skills: data scraping, data cleaning, data analysis, descriptive statistics, data visualization
-Technology: SQL, Excel, Tableau
-Results: Trends show an increase in BIPOC head coaches hired in the NFL post-2003 with a decrease the past few years. BIPOC head coaches share the same winning percentage as white head coaches. Although some NFL teams have hired BIPOC head coaches, several NFL teams have never had a person of color at the helm.
+<br>Skills: data scraping, data cleaning, data analysis, descriptive statistics, data visualization
+<br>Technology: SQL, Excel, Tableau
+<br>Results: Trends show an increase in BIPOC head coaches hired in the NFL post-2003 with a decrease the past few years. BIPOC head coaches share the same winning percentage as white head coaches. Although some NFL teams have hired BIPOC head coaches, several NFL teams have never had a person of color at the helm. Offensive coordinator positions are more likely to lead to head coaching opportunities, but BIPOC coaches are under-represented in that position across the league.
 
 [Maryland EdMoney Dashboard](https://public.tableau.com/views/MDEdMoneyDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>Description: Synthesis, cleaning, and analysis of multiple data points and sources from the MD Department of Education and Cencus Bureau
